@@ -1,19 +1,29 @@
 {
   "name": "@listingslab/toolkit",
   "version": "1.0.0",
-  "description": "globally relevant javascript engineering",
+  "description": "Globally relevant javascript engineering",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo \"Nothing to start :( \" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/listingslab/npm.git"
+    "url": "git+https://github.com/listingslab-software/npm.git"
   },
-  "author": "listingslab",
+  "author": {
+    "name": "listingslab",
+    "email": "listingslab@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/listingslab/npm/issues"
+    "url": "https://github.com/listingslab-software/npm/issues"
   },
-  "homepage": "https://github.com/listingslab/npm#readme"
+  "homepage": "https://www.npmjs.com/",
+  "keywords": [
+    "PWA",
+    "JavaScript",
+    "Node",
+    "SVG",
+    "React"
+  ]
 }
