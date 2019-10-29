@@ -1,0 +1,19 @@
+{
+  "name": "@listingslab/toolkit",
+  "version": "1.0.0",
+  "description": "globally relevant javascript engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listingslab/npm.git"
+  },
+  "author": "listingslab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/listingslab/npm/issues"
+  },
+  "homepage": "https://github.com/listingslab/npm#readme"
+}
