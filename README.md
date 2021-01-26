@@ -5,4 +5,4 @@
 #### [npmjs.com ](https://www.npmjs.com/package/@listingslab/toolkit)
 
 - Push2Talk
-- Canna## 
+- Canna
