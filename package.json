@@ -16,14 +16,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/listingslab-software/npm/issues"
+    "url": "https://github.com/listingslab-software/listingslab/issues"
   },
-  "homepage": "https://listingslab.com/",
-  "keywords": [
-    "PWA",
-    "JavaScript",
-    "Node",
-    "SVG",
-    "React"
-  ]
+  "homepage": "https://listingslab.com/work/open-source/npm-package"
 }
