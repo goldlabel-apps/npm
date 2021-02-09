@@ -1,11 +1,8 @@
 {
   "name": "@listingslab/toolkit",
-  "version": "1.0.1",
-  "description": "Globally relevant javascript engineering",
+  "version": "1.0.4",
+  "description": "Globally Relevant JavaScript",
   "main": "index.js",
-  "scripts": {
-    "start": "echo \"Nothing to start :( \" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/listingslab-software/npm.git"
@@ -18,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/listingslab-software/listingslab/issues"
   },
-  "homepage": "https://listingslab.com/work/open-source/npm-package"
+  "homepage": "https://listingslab.com/npm-package/",
+  "keywords": ["pwa", "react", "vanilla js", "slugify"]
 }
