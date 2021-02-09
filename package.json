@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/listingslab-software/listingslab/issues"
   },
-  "homepage": "https://listingslab.com/work/open-source/npm-package"
+  "homepage": "https://listingslab.com/work/open-source/npm-package",
+  "keywords": ["pwa", "react", "vanilla js"]
 }
