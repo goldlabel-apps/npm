@@ -1,6 +1,6 @@
 # @listingslab/toolkit
 
-> Get everything a pr0 React developer needs before breakfast and more from [npmjs.com ](https://www.npmjs.com/package/@listingslab/toolkit)
+> Get everything a pr0 React developer needs before breakfast and more in the Listingslab ToolKit
 
 #### Install
 
