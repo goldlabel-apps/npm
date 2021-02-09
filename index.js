@@ -5,8 +5,8 @@ import ordinalSuffix from './helpers/ordinalSuffix'
 import orderByEpoch from './helpers/orderByEpoch'
 
 // React 
-import Push2Talk from './Push2Talk'
-import Cannastore from './Cannastore'
+import Push2Talk from './react/Push2Talk'
+import Cannastore from './react/Cannastore'
 
 export {
 	slugify,
