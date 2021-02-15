@@ -1,6 +1,6 @@
 {
   "name": "@listingslab/toolkit",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Globally Relevant JavaScript",
   "main": "index.js",
   "repository": {
@@ -16,5 +16,13 @@
     "url": "https://github.com/listingslab-software/listingslab/issues"
   },
   "homepage": "https://listingslab.com/npm-package/",
-  "keywords": ["pwa", "react", "vanilla js", "slugify"]
+  "keywords": [
+    "pwa", 
+    "react", 
+    "react hooks", 
+    "vanilla js", 
+    "slugify",
+    "serverless",
+    "node"
+  ]
 }
