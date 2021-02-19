@@ -1,5 +1,5 @@
 import React from "react"
-const Cannastore = props => {
+const CannastoreLogo = props => {
 
     const { color } = props
     let c = `#000000`
@@ -24,4 +24,4 @@ const Cannastore = props => {
             </svg>
         </React.Fragment>
 }
-export default Cannastore
+export default CannastoreLogo

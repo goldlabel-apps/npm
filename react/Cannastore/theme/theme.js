@@ -7,7 +7,7 @@ const customisedTheme = {
 
 export const theme = { 
   palette: {
-    type: 'light',
+    type: 'dark',
     background: {
       default: customisedTheme.darkBg,
       paper: customisedTheme.darkBg,

@@ -1,5 +1,9 @@
-import Cannastore from './Cannastore'
+import CannastoreLogo from './CannastoreLogo'
+import Sensiseeds from './Sensiseeds'
+import Close from './Close'
 
 export {
-	Cannastore,
+	CannastoreLogo,
+	Sensiseeds,
+	Close,
 }

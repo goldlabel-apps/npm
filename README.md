@@ -2,7 +2,6 @@
 
 Everything a pr0 React developer needs before breakfast in the Listingslab ToolKit
 
-
 #### Install
 
 ```bash
@@ -25,14 +24,6 @@ npm i @listingslab/toolkit
 	}
 ```
 
-- [Push2Talk](./react/Push2Talk)
-
-```javascript
-	import { Push2Talk } from '@listingslab/toolkit'
-	export default function YourApp() {
-		return	<Push2Talk />
-	}
-```
 
 #### Vanilla JS
 

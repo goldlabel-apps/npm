@@ -1,8 +1,17 @@
 import React, { Component } from 'react'
 import { withStyles } from '@material-ui/core/styles'
-import Cannastore from './jsx/Cannastore'
+import { 
+    CannastoreLogo,
+    Close, 
+} from './jsx/'
 
+import Sensiseeds from './jsx/Sensiseeds'
 import IconPrivacy from '@material-ui/icons/Security'
+import IconFullscreen from '@material-ui/icons/Fullscreen'
+import IconSearch from '@material-ui/icons/Search'
+import IconCart from '@material-ui/icons/ShoppingCart'
+import IconLeft from '@material-ui/icons/ArrowLeft'
+
 
 const styles = theme => ({
     iconButton: {
@@ -32,10 +41,29 @@ class Icon extends Component {
                 return null
 
             case 'cannastore': 
-                return <Cannastore className={classes.iconButton} color={iconColor} />
+                return <CannastoreLogo className={classes.iconButton} color={ iconColor } />
+
+            case 'sensiseeds': 
+                return <Sensiseeds className={classes.iconButton} color={ iconColor } />
+
+            case `fullscreen`:
+                return (<IconFullscreen color={ iconColor } />)
+
+            case `search`:
+                return (<IconSearch color={ iconColor } />)
+
+            case `cart`:
+                return (<IconCart color={ iconColor } />)
+                
 
             case `privacy`:
-                return (<IconPrivacy color={iconColor} />)
+                return (<IconPrivacy color={ iconColor}  />)
+
+            case `left`:
+                return (<IconLeft color={ iconColor}  />)
+
+            case `close`:
+                return (<Close className={classes.iconButton} color={ iconColor }  />)
    
             default: {
                 return ( null )

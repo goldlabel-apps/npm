@@ -1,5 +1,7 @@
-import Privacy from './Privacy'
+import FullscreenDialog from './FullscreenDialog'
+import About from './About'
 
 export {
-	Privacy,
+	FullscreenDialog,
+	About,
 }
