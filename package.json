@@ -1,8 +1,11 @@
 {
   "name": "@listingslab/toolkit",
-  "version": "1.0.8",
+  "version": "10.1.4",
   "description": "Globally Relevant JavaScript",
   "main": "index.js",
+  "scripts": {
+    "git": "$PWD/unix/git"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/listingslab-software/npm.git"
