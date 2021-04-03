@@ -1,29 +1,24 @@
+
 # @listingslab/toolkit
 
 Everything a pr0 React developer needs before breakfast in the Listingslab ToolKit
 
-#### Install
+#### Usage
 
 ```bash
 cd <your-project>
 npm i @listingslab/toolkit
 ```
 
-#### Node JS
+#### Node JS Serverless API
 
-- [Serverless API](./node/serverless-api)
+- [API](./node/api)
 
-#### React
+#### WordPress Plugins
 
-- [Cannastore](./react/Cannastore)
-
-```javascript
-	import { Cannastore } from '@listingslab/toolkit'
-	export default function YourApp() {
-		return	<Cannastore />
-	}
-```
-
+- [@Toolkit](./wp-content/plugins/listingslab-toolkit)
+- [@PingPong](./wp-content/plugins/listingslab-pingpong)
+- [@PWAify](./wp-content/plugins/listingslab-pwaify)
 
 #### Vanilla JS
 
